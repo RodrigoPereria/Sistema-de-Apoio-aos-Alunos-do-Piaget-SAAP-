@@ -1,0 +1,43 @@
+Rodrigo Pereira nº60608    
+Diogo Piçarra  nº60589
+
+Sistema de Apoio aos Alunos do Piaget (SAAP)
+
+Objetivos:
+- Criar uma ferramenta acessível e interativa para fornecer suporte aos alunos do Instituto Piaget.
+- Facilitar o acesso dos alunos a informações relevantes sobre a instituição, cursos, eventos e serviços.
+- Oferecer um canal de comunicação eficiente entre os alunos e a instituição, permitindo tirar dúvidas, receber orientações e fornecer feedback.
+- Integrar funcionalidades de aprendizado automático para melhorar a experiência do usuário ao longo do tempo.
+
+
+Stakeholders:
+- Alunos: Os principais utilizadores do sistema, que irão interagir com o chatbot em busca de suporte e informações.
+- Corpo Docente: Pode usar o sistema para fornecer informações adicionais aos alunos e receber feedback sobre os cursos.
+- Equipa de Suporte: Responsável por monitorar e manter o sistema, bem como responder a consultas mais complexas que o chatbot não pode lidar.
+- Administração da Instituição: Interessada no desempenho e na eficácia do sistema em fornecer suporte aos alunos e melhorar a comunicação geral na instituição.
+
+
+Funcionalidades:
+
+- Responder a perguntas comuns dos alunos sobre cursos, horários, eventos, procedimentos administrativos, entre outros.
+- Fornecer informações sobre serviços oferecidos pela instituição, como biblioteca, suporte técnico, orientação acadêmica, etc.
+- Auxiliar os alunos na navegação pelo site da instituição e na localização de recursos relevantes.
+- Personalizar respostas com base no histórico de interações do usuário, utilizando aprendizado automático.
+- Encaminhar consultas mais complexas para a equipe de suporte, quando necessário.
+- Integrar-se a sistemas existentes da instituição, como sistemas de gestão acadêmica e bases de dados de alunos.
+
+
+Lista de User Stories
+- Como aluno, quero poder perguntar ao chatbot sobre o horário das aulas do meu curso para planejar meu dia.
+- Como aluno, gostaria de obter informações sobre os serviços oferecidos pela biblioteca da instituição.
+- Como aluno, quero receber lembretes sobre eventos importantes, como prazos de inscrição e datas de exames.
+- Como membro do corpo docente, desejo fornecer informações adicionais sobre o conteúdo do curso aos alunos através do chatbot.
+- Como administrador da instituição, quero acessar métricas sobre a eficácia do chatbot em fornecer suporte aos alunos para tomar decisões informadas sobre melhorias no sistema.
+
+Lista de UX (User Experience)
+
+- Interface Intuitiva: Garantir que a interface do chatbot seja simples e intuitiva, facilitando a interação dos alunos, independentemente do seu nível de habilidade tecnológica.
+- Respostas Personalizadas: Personalizar as respostas do chatbot com base no contexto da pergunta e nas interações anteriores do usuário para fornecer uma experiência mais relevante.
+- Feedback Instantâneo: Garantir que o chatbot forneça feedback instantâneo às consultas dos usuários, mantendo os tempos de resposta curtos para melhorar a experiência do usuário.
+- Design Responsivo: Certificar-se de que o chatbot seja responsivo e funcione bem em diferentes dispositivos e tamanhos de tela, incluindo computadores, tablets e smartphones.
+- Aprendizado Contínuo: Implementar funcionalidades de aprendizado automático para melhorar continuamente as respostas e a experiência do usuário com base no feedback e nas interações passadas.
